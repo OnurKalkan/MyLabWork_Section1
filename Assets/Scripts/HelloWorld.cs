@@ -12,7 +12,7 @@ public class HelloWorld : MonoBehaviour
     void Start()
     {
         print("Hello World!");
-        helloText.GetComponent<TextMeshPro>().text = "Hello Text";
+        helloText.GetComponent<TextMeshPro>().text = "Goodbye World";
     }
 
     // Update is called once per frame
